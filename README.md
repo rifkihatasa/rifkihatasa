@@ -46,7 +46,7 @@
 
 ## 🌸 Currently Obsessed With
 
-<img src="https://tenor.com/itlZky8iUor.gif" width="280" alt="Huohuo - Honkai: Star Rail"/>
+<img src="huohuo.gif" width="280" alt="Huohuo - Honkai: Star Rail"/>
 
 **Huohuo** — Honkai: Star Rail 🍄💙
 <!-- upload gif/gambar Huohuo favoritmu ke Cloudinary atau ke repo ini, lalu ganti link src di atas -->
@@ -60,9 +60,9 @@
 ## 🕹️ Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xycun/Xycun/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xycun/Xycun/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Xycun/Xycun/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifkihatasa/rifkihatasa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifkihatasa/rifkihatasa/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rifkihatasa/rifkihatasa/output/pacman-contribution-graph.svg">
 </picture>
 
 <sub>generated with <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></sub>
