@@ -1,8 +1,8 @@
 <div align="center">
 
-# Halo, saya Xycun 👋
+# Halo, saya Rifki Hatasa 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=003D7A&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%40+UNISKA+MAB;Building+Si-ELA+%E2%80%94+E-Learning+for+Elderly+%F0%9F%92%99;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=003D7A&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Passionate+About+Backend+%26+UI%2FUX;Keep+Learning%2C+Keep+Building" alt="Typing SVG" />
 
 </div>
 
