@@ -46,10 +46,21 @@
 
 ## 🌸 Currently Obsessed With
 
-<img src="img\huohuo.mp4" width="280" alt="Huohuo - Honkai: Star Rail"/>
+  <table>
+  <tr>
+  <td align="center">
+  <img src="img/huohuo.gif" width="260"><br>
+  <b>Huohuo</b><br>
+  <i>Honkai: Star Rail</i>
+  </td>
 
-**Huohuo** — Honkai: Star Rail 🍄💙
-<!-- upload gif/gambar Huohuo favoritmu ke Cloudinary atau ke repo ini, lalu ganti link src di atas -->
+  <td align="center">
+  <img src="img/hana.gif" width="260"><br>
+  <b>Hana</b><br>
+  <i>Guardian Tales</i>
+  </td>
+  </tr>
+  </table>
 
 </div>
 
