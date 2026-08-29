@@ -11,7 +11,7 @@ tambahkan code bagian atas #laugages dengan sosmed saya miliki  dari ig dan tikt
 ---
 
 # Sosmed
-<a href="https://www.instagram.com/rifki_hatasa_?igsi=MWE4emJyaHRtdm9iZA==" target="_blank">
+<a href="https://www.instagram.com/rifki_hatasa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="tiktok.com/@xycun.gt" target="_blank">
