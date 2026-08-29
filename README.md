@@ -1,5 +1,3 @@
-tambahkan code bagian atas #laugages dengan sosmed saya miliki  dari ig dan tiktok
-
 <div align="center">
 
 # Halo, saya Rifki Hatasa 👋
@@ -10,7 +8,7 @@ tambahkan code bagian atas #laugages dengan sosmed saya miliki  dari ig dan tikt
 
 ---
 
-# Sosmed
+# 🌐 Sosmed
 <a href="https://www.instagram.com/rifki_hatasa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
